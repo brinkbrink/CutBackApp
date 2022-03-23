@@ -1,1 +1,3 @@
 # The Cut Back App
+
+With this app the user can log the difference between how much they would ordinarily and how much they cut back that day. The app will convert that amount into a dollar equivalent and log it. The data logged will then be automatically analyzed and displayed to the user in a meaningful way via graphs and totaling amount saved. This app is designed to help people who aren't interested in quitting but wouldn't mind cutting back. 
